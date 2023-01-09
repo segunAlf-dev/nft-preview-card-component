@@ -22,7 +22,7 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    margin: 1rem auto;
+    margin: 6rem auto;
     max-width: 400px;
     padding: 2.2rem;
     background-color:hsl(216, 50%, 16%);
@@ -165,7 +165,7 @@ h1:hover  {
 @media only screen and  (max-width: 375px) and (min-width: 0) {
 
 body {
-        padding: 2rem;
+        margin: 3rem 0 3rem 0;
     }
     
 /* .container {
